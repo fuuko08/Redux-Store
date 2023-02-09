@@ -8,6 +8,8 @@ An e-commerce platform using Redux for managing complex state in a large-scale R
 
 Live deployed Heroku app: 
 
+<img width="1919" alt="Screenshot 2023-02-09 at 2 16 21 PM" src="https://user-images.githubusercontent.com/108949883/217953572-859dc8d3-9d22-4e00-a883-087fbb39e43a.png">
+
 ### User Story
 ```
 AS a senior engineer working on an e-commerce platform

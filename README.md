@@ -43,6 +43,8 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Instruction
 
+After downloading the app to your local devices. Please install the packages by running the command: ```npm install```
+
 To start the app, use the command: ```npm start```
 
 ### User Story

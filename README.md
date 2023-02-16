@@ -91,10 +91,10 @@ Github, Apollo Sandbox, Bootstrap, Heroku
 
 ## Questions
 
-* Email me for more information @:
+* Linkedin: https://www.linkedin.com/in/selinatpsu/
 
-phongsu20@gmail.com
+* Email: suselina08@gmail.com
 
-* Check out my other projects on Github @:
+* Github: https://www.github.com/fuuko08
 
-https://www.github.com/fuuko08
+* Portfolio: https://fuuko08.github.io/React-Portfolio/
